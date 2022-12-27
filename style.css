@@ -1,0 +1,33 @@
+body {
+    background: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.img {
+    display: flex;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.img_j {
+    text-decoration: none ;
+    margin-right: 50px;
+}
+
+.sss {
+    text-align: center;
+    margin-top: auto;
+    font-size: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+a {
+    color: rgb(255, 208, 208);
+    text-decoration: none;
+}
